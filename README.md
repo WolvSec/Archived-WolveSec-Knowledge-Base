@@ -7,7 +7,7 @@ A repository of useful CTF tools. Some were written during CTFs.
 * [Pwning](#pwn)
 * [Network](#net)
 * [Web](#web)
-* [Michigan](#michigan)
+* [Misc](#misc)
 
 
 <h3 id="crypto">Cryptography</h3>
