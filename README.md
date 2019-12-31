@@ -27,6 +27,7 @@ A repository of useful CTF tools. Some were written during CTFs.
 * [Fennec](https://github.com/lifting-bits/fennec): Post-compilation function call change
 * IDA
 * pwndbg
+* [pwntools](http://docs.pwntools.com/)
 * x64dbg
 * z3
 
