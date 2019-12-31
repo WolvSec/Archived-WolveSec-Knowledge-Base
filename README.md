@@ -7,7 +7,7 @@ A repository of useful CTF tools. Some were written during CTFs.
 * [Pwning](#pwn)
 * [Network](#net)
 * [Web](#web)
-* [Internal](#internal)
+* [Michigan](#michigan)
 
 
 <h3 id="crypto">Cryptography</h3>
@@ -43,7 +43,7 @@ A repository of useful CTF tools. Some were written during CTFs.
 * OWASP Zap
 * Storage Inspector
 
-<h3 id="internal">Internal</h3>
+<h3 id="misc">Misc</h3>
 
 * [biproxy](tools/biproxy.cc): TCP proxy with decryption capabilities. Written by kellen and bitshift.
 * [Windows Service Hijacking](tools/WindowsPwn/): Malicious Windows service binary.
