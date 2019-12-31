@@ -26,7 +26,7 @@ A repository of useful CTF tools. Some were written during CTFs.
 * GHIDRA
 * [Fennec](https://github.com/lifting-bits/fennec): Post-compilation function call change
 * IDA
-* pwndbg
+* [pwndbg](https://github.com/pwndbg/pwndbg)
 * [pwntools](http://docs.pwntools.com/)
 * x64dbg
 * z3
