@@ -48,4 +48,5 @@ A repository of useful CTF tools. Some were written during CTFs.
 <h3 id="misc">Misc</h3>
 
 * [biproxy](tools/biproxy.cc): TCP proxy with decryption capabilities. Written by kellen and bitshift.
+* [Snippet Toolbox](snippet-toolbox.md): Useful snippets
 * [Windows Service Hijacking](tools/WindowsServicePwn/): Malicious Windows service binary.
