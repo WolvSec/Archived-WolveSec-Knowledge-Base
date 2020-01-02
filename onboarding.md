@@ -41,7 +41,7 @@ We are a worldwide team that consists of people in and out of Ann Arbor, therefo
 
 * Detroit meetup: TBD
 * Students: TBD
-* Staff: University of Michigan, Michigan Medicine and Merit Networks staff meet Tuesdays and Thursday at building 777.
+* Staff: University of Michigan, Michigan Medicine and Merit Networks staff meet Tuesdays and Thursday at building 777. Mostly staff, but open to anyone.
 * SF meetup: TBD
 * Seattle meetup: TBD
 
@@ -50,4 +50,4 @@ We are a worldwide team that consists of people in and out of Ann Arbor, therefo
 * [Discord](https://discord.gg/KJjjzSr)
 * [Maize Pages](https://maizepages.umich.edu/organization/wolverinesec)
 * [MCommunity](https://mcommunity.umich.edu/#group:w01verines)
-* [University staff mailing list](https://mcommunity.umich.edu/#group:IA-MM-CTF)
+* [Staff meetup mailing list](https://mcommunity.umich.edu/#group:IA-MM-CTF)
