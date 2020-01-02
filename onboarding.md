@@ -9,7 +9,8 @@ Welcome to the WolvSec CTF team!
 * [Team](#team)
 
 <h2 id="about">About</h2>
-<p>WolvSec is primarily a CTF team for anyone affiliated with the University of Michigan and Ann Arbor. The team is open to alumni, staff, students, professors and all Michiganders! We mostly compete on two platforms:
+<p>
+WolvSec is primarily a CTF team for anyone affiliated with the University of Michigan and Ann Arbor. The team is open to alumni, staff, students, professors and all Michiganders! We mostly compete on two platforms:
 </p>
 
 * [CTFTime](https://ctftime.org/team/83621)
@@ -42,7 +43,9 @@ Welcome to the WolvSec CTF team!
 Leadership of the team is assumed by current students at the University of Michigan. If you want to get involved, please e-mail wolverinesec@umich.edu
 
 <h3>Guidelines</h3>
-CTFs are hard and time demanding. The following principles help coordinate our team efforts:
+<p>
+Don't stress! CTFs are for learning. But if you want to be competitive :)
+</p>
 
 * Never post or share flags
 * Never open hints if there are point penalties
@@ -50,8 +53,9 @@ CTFs are hard and time demanding. The following principles help coordinate our t
 * Specialize in one category (we still need crypto and pwning experts!)
 
 <h3>Meetups</h3>
-
+<p>
 Team that consists of people in and out of Ann Arbor, therefore we connect on Discord. When many of us are in proximity, we may organize a meetup! Feel free to add your meetup to this list:
+</p>
 
 * <b>Dearborn</b>: TBD
 * <b>Ann Arbor</b>: TBD
