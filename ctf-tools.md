@@ -22,6 +22,7 @@ A repository of useful CTF tools. Some were written during CTFs.
 <h3 id="pwn">Pwning/Reversing</h3>
 
 * Binary Ninja
+* [ctf-vm](https://github.com/gsingh93/ctf-vm): gsingh93's binary exploitation vm
 * gef
 * GHIDRA
 * [Fennec](https://github.com/lifting-bits/fennec): Post-compilation function call change
