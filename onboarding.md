@@ -1,5 +1,5 @@
 # WolvSec Onboarding 
-<b>READ THIS ENTIRELY BEFORE JOINING THE DISCORD SERVER!</b><br\>
+<b>READ THIS ENTIRELY BEFORE JOINING THE DISCORD SERVER!</b><br/>
 Welcome to the WolvSec CTF team! 
 
 * [About](#about)
