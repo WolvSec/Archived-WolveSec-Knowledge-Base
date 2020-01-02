@@ -54,7 +54,7 @@ We are here primarily for fun and learning so no stress. But if you want to make
 
 <h3>Meetups</h3>
 <p>
-Team that consists of people in and out of Ann Arbor, therefore we connect on Discord. When many of us are in proximity, we may organize a meetup! Feel free to add your meetup to this list:
+The team that consists of people in and out of Ann Arbor, therefore we connect on Discord. When many of us are in proximity, we may organize a meetup! Feel free to add your meetup to this list:
 </p>
 
 * <b>Dearborn</b>: TBD
