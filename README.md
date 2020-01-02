@@ -5,4 +5,5 @@ The purpose of this repository is to help all WolvSec members be successful CTF 
 * [CTF learning](ctf-learning.md): Learning-only material (books, videos)
 * [CTF list](ctf-list.md): Practical CTF challenges and platforms
 * [CTF tools](ctf-tools.md): Useful security tools
+* [Snippet Toolbox](snippet-toolbox.md): Useful penetration testing and CTF snippets
 
