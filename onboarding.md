@@ -1,5 +1,5 @@
 # WolvSec Onboarding 
-<b>READ THIS ENTIRELY BEFORE JOINING THE DISCORD SERVER!</b>
+<b>READ THIS ENTIRELY BEFORE JOINING THE DISCORD SERVER!</b><br\>
 Welcome to the WolvSec CTF team! 
 
 * [About](#about)
@@ -16,7 +16,7 @@ WolvSec is primarily a CTF team for anyone affiliated with the University of Mic
 
 <h3 id="goals">Goals</h3>
 
-* Increase computer security at the University of Michigan and the whole state of Michigan by doing CTFs
+* Increase computer security skills at the University of Michigan and the whole state of Michigan by doing CTFs
 * Create a worldwide University of Michigan computer security community and network
 * Provide applied vulnerability research capabilities to Michigan businesses
 
@@ -37,10 +37,11 @@ WolvSec is primarily a CTF team for anyone affiliated with the University of Mic
 * Basic programming skills
 
 <h3>Meetups</h3>
-Because our worldwide team consists of people in and out of Ann Arbor, we connect on Discord. In addition, we have several meetups:
+We are a worldwide team that consists of people in and out of Ann Arbor, therefore we connect on Discord. When many of us are in proximity, we may organize a meetup! Here is a list of our current meetups: 
 
+* Detroit meetup: TBD
 * Students: TBD
-* Staff: University of Michigan, Michigan Medicine and Merit Networks staff meet Tuesdays and Thursday.
+* Staff: University of Michigan, Michigan Medicine and Merit Networks staff meet Tuesdays and Thursday at building 777.
 * SF meetup: TBD
 * Seattle meetup: TBD
 
