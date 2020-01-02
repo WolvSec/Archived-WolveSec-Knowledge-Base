@@ -42,9 +42,9 @@ WolvSec is primarily a CTF team for anyone affiliated with the University of Mic
 <h3>Leadership</h3>
 Leadership of the team is assumed by current students at the University of Michigan. If you want to get involved, please e-mail wolverinesec@umich.edu
 
-<h3>Guidelines</h3>
+<h3>Going Blue</h3>
 <p>
-Don't stress! CTFs are for learning. But if you want to be competitive :)
+We are here primarily for fun and learning so no stress. But if you want to make Michigan go blue :)
 </p>
 
 * Never post or share flags
