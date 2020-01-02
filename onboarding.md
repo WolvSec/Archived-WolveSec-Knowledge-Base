@@ -11,6 +11,7 @@ Welcome to the WolvSec CTF team!
 <h3 id="about">About</h3>
 WolvSec is primarily a CTF team for anyone affiliated with the University of Michigan and Ann Arbor. The team is open to alumni, staff, students, professors and all Michiganders! We mostly compete on two platforms:
 <br/>
+
 * [CTFTime](https://ctftime.org/team/83621)
 * [Hack the Box](https://hackthebox.eu)
 
@@ -37,7 +38,7 @@ WolvSec is primarily a CTF team for anyone affiliated with the University of Mic
 * Basic programming skills
 
 <h3 id="team">Team</h3>
-Leadership of the team is assumed by current students at the University of Michigan.  
+Leadership of the team is assumed by current students at the University of Michigan.\
 
 We are a worldwide team that consists of people in and out of Ann Arbor, therefore we connect on Discord. When many of us are in proximity, we may organize a meetup! Here is a list of our current meetups: 
 
