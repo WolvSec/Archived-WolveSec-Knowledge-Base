@@ -1,8 +1,8 @@
-# CTF Knowledge Base
-A CTF and security knowledge base written for the University of Michigan!
+# WolvSec Knowledge Base
+The purpose of this repository is to help all WolvSec members be successful CTF players. This project is meant to help new members with onboarding, and give direction to aspiring l33t h4x0rs. Before proceeding to the team, please read the [WolvSec onboarding material](wolvsecwiki.md)!
 
-* [CTF learning](ctf-learning.md): A list of CTF learning-only material (books, videos)
-* [CTF list](ctf-list.md): A list of CTF practice challenges and platforms
-* [CTF tools](ctf-tools.md): A list of useful CTF and security tools
-* [Wolvsec Wiki](wolvsecwiki.md): WolvSec onboarding material
+* [Wolvsec Onboarding](wolvsecwiki.md): <b>READ THIS FIRST!</b> 
+* [CTF learning](ctf-learning.md): Learning-only material (books, videos)
+* [CTF list](ctf-list.md): Practical CTF challenges and platforms
+* [CTF tools](ctf-tools.md): Useful security tools
 
