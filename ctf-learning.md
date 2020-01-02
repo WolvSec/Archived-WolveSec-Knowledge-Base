@@ -10,6 +10,7 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 
 <h2 id="crypto">Cryptography</h2>
 
+* [Crypto cheatsheet](https://pequalsnp-team.github.io/cheatsheet/crypto-101)
 * [Coursera crypto](https://www.coursera.org/learn/crypto)
 
 <h2 id="for">Forensics</h2>

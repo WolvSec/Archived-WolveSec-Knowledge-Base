@@ -7,3 +7,8 @@ The purpose of this repository is to help all WolvSec members be successful CTF 
 * [CTF tools](ctf-tools.md): Useful security tools
 * [Snippet Toolbox](snippet-toolbox.md): Useful penetration testing and CTF snippets
 
+<h3>Links</h3>
+
+* [Maize Pages](https://maizepages.umich.edu/organization/wolverinesec)
+* [MCommunity](https://mcommunity.umich.edu/#group:w01verines)
+* [Staff meetup mailing list](https://mcommunity.umich.edu/#group:IA-MM-CTF)

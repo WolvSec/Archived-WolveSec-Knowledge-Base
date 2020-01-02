@@ -44,6 +44,7 @@ A repository of useful CTF tools. Some were written during CTFs.
 * HTTP Statuses
 * OWASP Zap
 * Storage Inspector
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
 <h3 id="misc">Misc</h3>
 
