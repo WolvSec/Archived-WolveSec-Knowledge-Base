@@ -1,5 +1,5 @@
-# CTF Learning
-CTF and security learning-only resources. No practical challenges, go to [ctf-list](ctf-list.md) 
+# CTF Reading list 
+CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md). 
 
 * [Cryptography](#pwn)
 * [Forensics](#for)
@@ -9,6 +9,8 @@ CTF and security learning-only resources. No practical challenges, go to [ctf-li
 * [Web](#web)
 
 <h2 id="crypto">Cryptography</h2>
+
+* [Coursera crypto](https://www.coursera.org/learn/crypto)
 
 <h2 id="for">Forensics</h2>
 
