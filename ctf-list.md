@@ -1,5 +1,5 @@
 # CTF Challenges List
-The purpose of this project is to keep an archive of practical CTF challenges and practice sites. 
+The purpose of this project is to keep an archive of practical CTF challenges and practice sites.
 
 * [All](#all)
 * [Cryptography](#crypto)
