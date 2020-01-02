@@ -22,7 +22,7 @@ WolvSec is primarily a CTF team for anyone affiliated with the University of Mic
 
 <h3 id="rules">Rules</h3>
 
-* Do not use your knowledge of computer security to engage in illegal activities or discuss illegal activities (abuse, cracking, pirating, hacktivism, ...)
+* Do not use your knowledge of computer security to engage in or discuss illegal activities (abuse, cracking, pirating, hacktivism, ...)
 * Do not discriminate or engage in hate speech against anyone or any group (ethnicity, gender, religion, ...) on any platform
 * Do not post or use profile pictures that are pornographic, explicit, contain nudity or sexual innuendos (bikinis, nudes, hentai, ...) on our Discord server.
 * Do not post or discuss material related to the use of alcohol, illegal drugs or narcotics.
