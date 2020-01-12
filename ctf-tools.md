@@ -47,13 +47,13 @@ A repository of useful CTF tools. Some were written during CTFs.
 * OWASP Zap
 * Storage Inspector
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* [hacker101_micro_cmsv2_db_miner.py](tools/hacker101_micro_cmsv2_db_miner.py)
+  * Python3 code illustrating blind SQL injection to retrieve a username/password from a DB.  Written by sam.
 
 <h3 id="misc">Misc</h3>
 
 * [biproxy](tools/biproxy.cc)
   * TCP proxy with decryption capabilities. Written by kellen and bitshift.
-* [hacker101_micro_cmsv2_db_miner.py](tools/hacker101_micro_cmsv2_db_miner.py)
-  * Python code illustrating blind SQL injection to retrieve a username/password from a DB.  Written by sam.
 * [Snippet Toolbox](https://gitlab.umich.edu/wolvsec/ctf-snippet-toolbox)
   * Useful penetration testing and CTF snippets
 * [Windows Service Hijacking](tools/WindowsServicePwn/)
