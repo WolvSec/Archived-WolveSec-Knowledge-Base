@@ -35,6 +35,7 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 <table style="width:100%">
 
 * [Bug Crowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
+* [Hacker 101 Training Videos](https://www.hacker101.com/videos)
 
 <h2 id="misc">Misc</h2>
 

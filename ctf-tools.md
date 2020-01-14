@@ -22,10 +22,12 @@ A repository of useful CTF tools. Some were written during CTFs.
 <h3 id="pwn">Pwning/Reversing</h3>
 
 * Binary Ninja
-* [ctf-vm](https://github.com/gsingh93/ctf-vm): gsingh93's binary exploitation vm
+* [ctf-vm](https://github.com/gsingh93/ctf-vm)
+  * gsingh93's binary exploitation vm
 * gef
 * GHIDRA
-* [Fennec](https://github.com/lifting-bits/fennec): Post-compilation function call change
+* [Fennec](https://github.com/lifting-bits/fennec)
+  * Post-compilation function call change
 * IDA
 * [pwndbg](https://github.com/pwndbg/pwndbg)
 * [pwntools](http://docs.pwntools.com/)
@@ -45,9 +47,14 @@ A repository of useful CTF tools. Some were written during CTFs.
 * OWASP Zap
 * Storage Inspector
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* [hacker101_micro_cmsv2_db_miner.py](tools/hacker101_micro_cmsv2_db_miner.py)
+  * Python3 code illustrating blind SQL injection to retrieve a username/password from a DB.  Written by sam.
 
 <h3 id="misc">Misc</h3>
 
-* [biproxy](tools/biproxy.cc): TCP proxy with decryption capabilities. Written by kellen and bitshift.
-* [Snippet Toolbox](snippet-toolbox.md): Useful snippets
-* [Windows Service Hijacking](tools/WindowsServicePwn/): Malicious Windows service binary.
+* [biproxy](tools/biproxy.cc)
+  * TCP proxy with decryption capabilities. Written by kellen and bitshift.
+* [Snippet Toolbox](https://gitlab.umich.edu/wolvsec/ctf-snippet-toolbox)
+  * Useful penetration testing and CTF snippets
+* [Windows Service Hijacking](tools/WindowsServicePwn/)
+  * Malicious Windows service binary.
