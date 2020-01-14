@@ -43,9 +43,12 @@ A repository of useful CTF tools. Some were written during CTFs.
 <h3 id="web">Web</h3>
 
 * Burpsuite
+  * [Configuring Burp](https://portswigger.net/burp/documentation/desktop/penetration-testing/configuring-your-browser)
 * HTTP Statuses
 * OWASP Zap
 * Storage Inspector
+* [temp-mail.org](https://temp-mail.org/)
+  * Disposable email address
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [hacker101_micro_cmsv2_db_miner.py](tools/hacker101_micro_cmsv2_db_miner.py)
   * Python3 code illustrating blind SQL injection to retrieve a username/password from a DB.  Written by sam.
@@ -54,6 +57,8 @@ A repository of useful CTF tools. Some were written during CTFs.
 
 * [biproxy](tools/biproxy.cc)
   * TCP proxy with decryption capabilities. Written by kellen and bitshift.
+* [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
+  * A database of google queries for finding vulnerable systems
 * [Snippet Toolbox](https://gitlab.umich.edu/wolvsec/ctf-snippet-toolbox)
   * Useful penetration testing and CTF snippets
 * [Windows Service Hijacking](tools/WindowsServicePwn/)
