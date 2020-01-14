@@ -1,13 +1,15 @@
 # Sample Learning Roadmap
 If you need a structured list of topics to learn, this is a sample training roadmap
 
-* [Cryptography](#pwn)
+* [Cryptography](#crypto)
 * [Forensics](#for)
 * [Hardware](#hard)
 * [Pwn](#pwn)
 * [Reversing](#rev)
 * [Web](#web)
 * [Sample Topics Roadmap](#roadmap)
+
+<h2 id="crypto">Cryptography</h2>
 
 * Basics
 	* Number Theory
