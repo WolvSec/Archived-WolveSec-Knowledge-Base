@@ -17,20 +17,28 @@ A repository of useful CTF tools. Some were written during CTFs.
 <h3 id="forensics">Forensics</h3>
 
 * EnCase
-* Volatility
+* [FotoForensics](http://fotoforensics.com/)
+* [Tweakpng](http://entropymine.com/jason/tweakpng/): For modifying PNG files
+* [Sigidwiki](https://www.sigidwiki.com/wiki/Database)
+* [Volatility](https://github.com/volatilityfoundation/volatility): Tool for memory forensics
 
 <h3 id="pwn">Pwning/Reversing</h3>
 
 * Binary Ninja
 * [ctf-vm](https://github.com/gsingh93/ctf-vm)
   * gsingh93's binary exploitation vm
+* [elfy.io](https://elfy.io/): A web based ELF parser
 * gef
 * GHIDRA
 * [Fennec](https://github.com/lifting-bits/fennec)
   * Post-compilation function call change
 * IDA
+* [Kaitai.io](https://kaitai.io/): General binary RE
+* [Linux Syscall Table](https://filippo.io/linux-syscall-table/)
+* [One Gadget](https://github.com/david942j/one_gadget): Tool for finding one gadgets
 * [pwndbg](https://github.com/pwndbg/pwndbg)
 * [pwntools](http://docs.pwntools.com/)
+* [Radare2 Cheatsheet](https://gist.github.com/williballenthin/6857590dab3e2a6559d7)
 * x64dbg
 * z3
 
@@ -61,5 +69,6 @@ A repository of useful CTF tools. Some were written during CTFs.
   * A database of google queries for finding vulnerable systems
 * [Snippet Toolbox](https://gitlab.umich.edu/wolvsec/ctf-snippet-toolbox)
   * Useful penetration testing and CTF snippets
+* [Pentesting Tools](https://prune2000.github.io/tools/pentest/)
 * [Windows Service Hijacking](tools/WindowsServicePwn/)
   * Malicious Windows service binary.
