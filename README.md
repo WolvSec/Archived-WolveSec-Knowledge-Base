@@ -13,5 +13,5 @@ The purpose of this repository is to help all WolvSec members be successful CTF 
 
 * [Maize Pages](https://maizepages.umich.edu/organization/wolverinesec)
 * [MCommunity](https://mcommunity.umich.edu/#group:w01verines)
-* [Staff meetup mailing list](https://mcommunity.umich.edu/#group:IA-MM-CTF)
+* [Staff meetup mailing list](https://mcommunity.umich.edu/#group:wolvsec%20staff)
 
