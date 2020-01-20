@@ -69,8 +69,9 @@ The purpose of this project is to keep an archive of practical CTF challenges an
 
 <h3 id="web">Web</h3>
 
-* [BugCrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university)
 * [Hacker101 CTF](https://ctf.hacker101.com)
+* [Pico CTF](https://picoctf.com/)
+* [BugCrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university)
 * [PentesterLab](https://pentesterlab.com)
 * [Portswigger Academy](https://portswigger.net/web-security)
 * [Orange Tsai](https://github.com/orangetw/My-CTF-Web-Challenges)
