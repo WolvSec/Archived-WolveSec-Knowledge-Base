@@ -34,11 +34,13 @@ A repository of useful CTF tools. Some were written during CTFs.
   * Post-compilation function call change
 * IDA
 * [Kaitai.io](https://kaitai.io/): General binary RE
+* [kitgen](https://github.com/chesteroni/kitgen)
 * [Linux Syscall Table](https://filippo.io/linux-syscall-table/)
 * [One Gadget](https://github.com/david942j/one_gadget): Tool for finding one gadgets
 * [pwndbg](https://github.com/pwndbg/pwndbg)
 * [pwntools](http://docs.pwntools.com/)
 * [Radare2 Cheatsheet](https://gist.github.com/williballenthin/6857590dab3e2a6559d7)
+* [Skeksi virus](https://github.com/elfmaster/skeksi_virus/blob/master/virus.c)
 * x64dbg
 * z3
 
@@ -47,6 +49,7 @@ A repository of useful CTF tools. Some were written during CTFs.
 * nmap
 * scapy 
 * Wireshark
+
 
 <h3 id="web">Web</h3>
 

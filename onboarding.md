@@ -18,8 +18,9 @@ WolvSec is primarily a CTF team for anyone affiliated with the University of Mic
 
 <h2 id="goals">Goals</h2>
 
-* Increase computer security skills at the University of Michigan and the whole state of Michigan by doing CTFs
-* Create a worldwide University of Michigan computer security community and network
+* Increase computer security skills at the University of Michigan by participating in CTF competitions
+* Create a worldwide University of Michigan computer security community
+* Improve reputation of University of Michigan in computer security industry
 * Provide applied vulnerability research capabilities to Michigan businesses
 
 <h2 id="rules">Community Rules</h2>
