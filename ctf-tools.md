@@ -53,6 +53,7 @@ A repository of useful CTF tools. Some were written during CTFs.
 
 <h3 id="web">Web</h3>
 
+* [Arachni web scanner](https://www.arachni-scanner.com/)
 * Burpsuite
   * [Configuring Burp](https://portswigger.net/burp/documentation/desktop/penetration-testing/configuring-your-browser)
 * HTTP Statuses
