@@ -26,6 +26,8 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 
 <h2 id="rev">Reversing</h2>
 
+* [OS Tutorial](https://github.com/cfenollosa/os-tutorial)
+* [wiki.osdev](https://wiki.osdev.org/)
 * [reverse-engineering](https://github.com/wtsxDev/reverse-engineering)
 * [kernelmode.info](https://www.kernelmode.info/forum/)
 * [cr4sh](https://github.com/Cr4sh)
