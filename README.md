@@ -4,6 +4,7 @@ The purpose of this repository is to help all WolvSec members be successful CTF 
 * [Wolvsec Onboarding](onboarding.md): <b>READ THIS FIRST!</b> 
 * [What are CTFs?](https://www.youtube.com/watch?v=8ev9ZX9J45A): Live Overflow Youtube video
 * [Why CTFs?](https://www.youtube.com/watch?v=6vj96QetfTg&start=1545&end=1988&autoplay=1): The best way to find hacking talent
+* [CTF bootcamp](bootcamp.md): Bootcamp training material
 * [CTF learning](ctf-learning.md): Learning-only material (books, videos)
 * [CTF list](ctf-list.md): Practical CTF challenges and platforms
 * [CTF tools](ctf-tools.md): Useful security tools
