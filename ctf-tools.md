@@ -13,6 +13,7 @@ A repository of useful CTF tools. Some were written during CTFs.
 <h3 id="crypto">Cryptography</h3>
 
 * CyberChef
+* [FactorDB](http://factordb.com/index.php/): Factor large numbers
 
 <h3 id="forensics">Forensics</h3>
 
@@ -40,6 +41,7 @@ A repository of useful CTF tools. Some were written during CTFs.
 * [pwndbg](https://github.com/pwndbg/pwndbg)
 * [pwntools](http://docs.pwntools.com/)
 * [Radare2 Cheatsheet](https://gist.github.com/williballenthin/6857590dab3e2a6559d7)
+* [Seccomp Tools](https://github.com/david942j/seccomp-tools)
 * [Skeksi virus](https://github.com/elfmaster/skeksi_virus/blob/master/virus.c)
 * x64dbg
 * z3
