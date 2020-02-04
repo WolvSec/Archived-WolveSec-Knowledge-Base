@@ -17,7 +17,7 @@
 
 <b>BOOTCAMP: Please have these tools installed before the bootcamp!</b>
 
-This document list the main tool(s) used in a specific CTF category. The four "classical" categories in CTFs are:
+This document list the minimum tool you need installed but also the main ones used in CTFs. The tools are arranged by the four "classic" categories:
 * Reverse engineering
 * Binary exploitation (aka pwn)
 * Cryptography
