@@ -41,10 +41,12 @@ There is no specific OS required. However, some CTF challenges are written for o
 * Decompiler: A tool that attempts to reconstruct the source code of the compiled program. 
 	* [GHIDRA](https://ghidra-sre.org/): A free reverse engineering framework
 	* [OpenJDK](https://jdk.java.net/archive/): You might need this for GHIDRA
+* Debuggers: A tool used to step through a program while it is running
+	* [gdb/gef](https://gef.readthedocs.io/): A debugger for UNIX based systems. GEF is a nice plugin for vulnerability discovery
 * Exploit Library: A library with functions used for automating exploit writing
 	* [pwntools](http://docs.pwntools.com/): A popular exploit library
 * Virtualization Software 
-	* [CTF VM]{https://github.com/gsingh93/ctf-vm): Kindly provided by Umich alumnus gsingh. <b>You'll want this for pwn!</b>
+	* [CTF VM](https://github.com/gsingh93/ctf-vm): Kindly provided by Umich alumnus gsingh. <b>You'll want this for pwn!</b>
 
 <h2 id="crypto">Cryptography</h2>
 
