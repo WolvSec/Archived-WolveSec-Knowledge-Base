@@ -2,17 +2,17 @@
 The purpose of this repository is to help all WolvSec members be successful CTF players. This project is meant to help new members with onboarding, and give direction to aspiring l33t h4x0rs. Before proceeding to the team, please read the [WolvSec onboarding material](onboarding.md)!
 
 * Introduction
-	* [Wolvsec Onboarding](onboarding.md): <b>READ THIS FIRST!</b> 
 	* [What are CTFs?](https://www.youtube.com/watch?v=8ev9ZX9J45A): Live Overflow Youtube video
 	* [Why CTFs?](https://www.youtube.com/watch?v=6vj96QetfTg&start=1545&end=1988&autoplay=1): The best way to find hacking talent
-	* [Setup](setup.md)
-	* [Sample Learning Roadmap](learning-roadmap.md): A sample learning roadmap
+* Getting Started
+	* [Wolvsec Onboarding](onboarding.md): <b>READ THIS FIRST!</b> 
+	* [Setup](setup.md): Minimum tools you need to install to solve challenges
+	* [WolvSec bootcamp](https://gitlab.umich.edu/wolvsec/wolvsec-bootcamp): Internal bootcamp training material
 * Resources
-	* [CTF bootcamp](bootcamp.md): Bootcamp training material
-	* [CTF learning](ctf-learning.md): Learning-only material (books, videos)
-	* [CTF list](ctf-list.md): Practical CTF challenges and platforms
-	* [CTF tools](ctf-tools.md): Useful security tools
-	* [Snippet Toolbox](https://gitlab.umich.edu/wolvsec/ctf-snippet-toolbox): Useful penetration testing and CTF snippets
+	* [Learn Only Resources](learnonly.md): Learning-only material (books, videos)
+	* [Ongoing CTFs](ongoing.md): List of 365/24/7 ongoing CTFs
+	* [Security Tools](tools.md): A list of security tools
+	* [Snippet Toolbox](https://gitlab.umich.edu/wolvsec/ctf-snippet-toolbox): Useful script templates and commands
 
 <h3>Links</h3>
 
