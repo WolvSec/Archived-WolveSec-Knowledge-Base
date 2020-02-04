@@ -18,8 +18,12 @@ The purpose of this project is to keep an archive of practical CTF challenges an
 * [OverTheWire](https://overthewire.org)
 * [picoCTF](https://picoctf.com)
 * [Praetorian](https://praetorian.com/challenges)
+* [Purdue CTF](https://ctf.b01lers.net/)
 * [RingZer0 CTF](https://ringzer0ctf.com)
 * [CSAW 365](https://365.csaw.io)
+* [UIUC CTF](https://ctf.sigpwny.com/)
+* [USF CTF](https://ctf.wcsc.usf.edu/)
+
 
 <h3 id="crypto">Cryptography</h3>
 
@@ -50,6 +54,7 @@ The purpose of this project is to keep an archive of practical CTF challenges an
 
 * [exploit-education](https://exploit.education)
 * [exploit-exercises](https://exploit-exercises.lains.space)
+* [hackcenter](https://hackcenter.com/)
 * [katsudon](https://ctf.katsudon.org/ctf4u)
 * [pwnable.kr](https://pwnable.kr)
 * [pwnable.tw](https://pwnable.tw)
