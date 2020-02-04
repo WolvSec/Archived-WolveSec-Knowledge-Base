@@ -59,7 +59,7 @@ The team consists of people in and out of Ann Arbor, therefore we connect on Dis
 </p>
 
 * <b>Dearborn</b>: TBD
-* <b>Ann Arbor</b>: TBD
+* <b>Ann Arbor</b>: Every Monday at 6 pm. We are still looking for a recurring location. Follow announcements for location.
 * <b>Staff</b>: University of Michigan, Michigan Medicine and Merit Networks staff meet Tuesdays and Thursday at building 777. Mostly staff, but open to anyone.
 * <b>San Francisco</b>: TBD
 * <b>Seattle</b>: TBD
