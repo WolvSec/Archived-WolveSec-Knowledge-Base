@@ -20,8 +20,11 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 <h2 id="hard">Hardware</h2>
 
 
+
+
 <h2 id="pwn">Pwn</h2>
 
+* [Anatomy of a syscall](https://lwn.net/Articles/604287/)
 * [Corelan Team](https://www.corelan.be/)
 
 <h2 id="rev">Reversing</h2>

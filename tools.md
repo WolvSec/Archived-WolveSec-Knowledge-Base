@@ -25,6 +25,12 @@ A repository of useful CTF tools. Some were written during CTFs.
 
 <h3 id="pwn">Pwning/Reversing</h3>
 
+* [Apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio)
+	* [Apktool](https://github.com/iBotPeaches/Apktool/releases)
+	* [Jadx](https://github.com/skylot/jadx/releases)
+	* [ADB](https://developer.android.com/studio/releases/platform-tools)
+	* [Uber APK signer](https://github.com/patrickfav/uber-apk-signer/releases)
+* [Adhrit](https://github.com/abhi-r3v0/Adhrit)
 * Binary Ninja
 * [ctf-vm](https://github.com/gsingh93/ctf-vm)
   * gsingh93's binary exploitation vm
