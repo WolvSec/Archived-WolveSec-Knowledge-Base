@@ -14,6 +14,7 @@ A repository of useful CTF tools. Some were written during CTFs.
 
 * CyberChef
 * [FactorDB](http://factordb.com/index.php/): Factor large numbers
+* [GMP-ECM](http://ecm.gforge.inria.fr/)
 
 <h3 id="forensics">Forensics</h3>
 
@@ -51,6 +52,10 @@ A repository of useful CTF tools. Some were written during CTFs.
 * [Skeksi virus](https://github.com/elfmaster/skeksi_virus/blob/master/virus.c)
 * x64dbg
 * z3
+
+<h2 id="mac">Mac</h2>
+
+* [lldbinit](https://github.com/gdbinit/lldbinit)
 
 <h3 id="net">Network</h3>
 

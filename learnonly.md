@@ -26,6 +26,9 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 
 * [Anatomy of a syscall](https://lwn.net/Articles/604287/)
 * [Corelan Team](https://www.corelan.be/)
+* [Mach architecture](https://en.wikibooks.org/wiki/Reverse_Engineering/Mac_OS_X)
+* [Mach malloc](https://opensource.apple.com/source/Libc/Libc-594.1.4/gen/malloc.c)
+	* [Magazine malloc](https://opensource.apple.com/source/Libc/Libc-594.1.4/gen/magazine_malloc.c)
 
 <h2 id="rev">Reversing</h2>
 
