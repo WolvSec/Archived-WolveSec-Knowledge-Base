@@ -66,4 +66,5 @@ The team consists of people in and out of Ann Arbor, therefore we connect on Dis
 
 <h2 id="links">Links</h2>
 
+* [Maize Pages](https://maizepages.umich.edu/organization/wolverinesec)
 * [Discord](https://discord.gg/KJjjzSr)
