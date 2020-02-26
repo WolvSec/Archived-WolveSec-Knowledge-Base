@@ -13,6 +13,8 @@
 * [Web](#web)
 	* Browser Proxy
 	* HTTP library
+* [Misc](#misc)
+	* Collaboration
 
 <h2 id="intro">Introduction</h2>
 
@@ -63,3 +65,8 @@ There is no specific OS required. However, some CTF challenges are written for o
 	* [Burpsuite](https://portswigger.net/burp): A popular browser proxy
 * HTTP library: A library for programmatically performing HTTP transactions
 	* [HTTP Requests](https://requests.readthedocs.io/): An HTTP library in python
+
+<h2 id="misc">Miscellaneous</h2>
+
+* Collaboration: Tools for improving teamwork
+	* [BlueJeans](https://umich.bluejeans.com/): Provided by UMich
