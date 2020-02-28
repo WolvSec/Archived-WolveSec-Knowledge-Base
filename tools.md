@@ -44,6 +44,7 @@ A repository of useful CTF tools. Some were written during CTFs.
 * [Kaitai.io](https://kaitai.io/): General binary RE
 * [kitgen](https://github.com/chesteroni/kitgen)
 * [Linux Syscall Table](https://filippo.io/linux-syscall-table/)
+* [Libc Database](https://github.com/niklasb/libc-database)
 * [One Gadget](https://github.com/david942j/one_gadget): Tool for finding one gadgets
 * [pwndbg](https://github.com/pwndbg/pwndbg)
 * [pwntools](http://docs.pwntools.com/)
