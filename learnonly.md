@@ -16,6 +16,8 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 
 <h2 id="for">Forensics</h2>
 
+* [13Cubed](https://www.youtube.com/user/davisrichardg): Forensics channel
+
 
 <h2 id="hard">Hardware</h2>
 
@@ -30,6 +32,7 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 * [Mach architecture](https://en.wikibooks.org/wiki/Reverse_Engineering/Mac_OS_X)
 * [Mach malloc](https://opensource.apple.com/source/Libc/Libc-594.1.4/gen/malloc.c)
 	* [Magazine malloc](https://opensource.apple.com/source/Libc/Libc-594.1.4/gen/magazine_malloc.c)
+* [n4sm](https://www.youtube.com/channel/UCMLdzIcHxhrDkgyw9IxgOwQ): Channel in French
 
 <h2 id="rev">Reversing</h2>
 
