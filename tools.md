@@ -89,6 +89,7 @@ A repository of useful CTF tools. Some were written during CTFs.
   * A database of google queries for finding vulnerable systems
 * [Snippet Toolbox](https://gitlab.umich.edu/wolvsec/ctf-snippet-toolbox)
   * Useful penetration testing and CTF snippets
+* [tandasat](https://github.com/tandasat/MiniVisorPkg): UEFI hypervisor to boot OS
 * [Pentesting Tools](https://prune2000.github.io/tools/pentest/)
 * [Windows Service Hijacking](tools/WindowsServicePwn/)
   * Malicious Windows service binary.
