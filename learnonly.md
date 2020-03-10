@@ -56,3 +56,4 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 * [CTFtime writeup](https://ctftime.org/writeups)
 * [ctf-wiki](https://ctf-wiki.github.io/ctf-wiki/)
 * [CTFs](https://github.com/ctfs/)
+* [Linux File System](https://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/Linux-Filesystem-Hierarchy.pdf): Simple explanation
