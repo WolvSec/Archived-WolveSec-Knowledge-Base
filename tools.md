@@ -7,6 +7,7 @@ A repository of useful CTF tools. Some were written during CTFs.
 * [Pwning](#pwn)
 * [Network](#net)
 * [Web](#web)
+* [Wifi](#wifi)
 * [Misc](#misc)
 
 
@@ -79,6 +80,10 @@ A repository of useful CTF tools. Some were written during CTFs.
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [hacker101_micro_cmsv2_db_miner.py](tools/hacker101_micro_cmsv2_db_miner.py)
   * Python3 code illustrating blind SQL injection to retrieve a username/password from a DB.  Written by sam.
+
+<h2 id="wifi">Wifi</h2>
+
+* [lscript](https://github.com/arismelachroinos/lscript)
 
 <h3 id="misc">Misc</h3>
 
