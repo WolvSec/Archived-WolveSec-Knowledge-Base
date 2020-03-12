@@ -6,6 +6,7 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 * [Hardware](#hard)
 * [Pwn](#pwn)
 * [Reversing](#rev)
+* [Social Engineering](#social)
 * [Web](#web)
 * [Sample Topics Roadmap](#roadmap)
 
@@ -43,6 +44,9 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 * [cr4sh](https://github.com/Cr4sh)
 * [VX underground](https://vx-underground.org/zines.html)
 
+<h2 id="social">Social Engineering</h2>
+
+* [shiey](https://www.youtube.com/channel/UCpXwMqnXfJzazKS5fJ8nrVw)
 
 <h2 id="web">Web</h2>
 
