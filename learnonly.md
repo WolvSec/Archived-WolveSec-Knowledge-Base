@@ -47,6 +47,7 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 <h2 id="social">Social Engineering</h2>
 
 * [shiey](https://www.youtube.com/channel/UCpXwMqnXfJzazKS5fJ8nrVw)
+* [The Proper People](https://www.youtube.com/channel/UCcem9I78ybZLHLRUlkUO3sw)
 
 <h2 id="web">Web</h2>
 
