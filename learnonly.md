@@ -61,3 +61,4 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 * [ctf-wiki](https://ctf-wiki.github.io/ctf-wiki/)
 * [CTFs](https://github.com/ctfs/)
 * [Linux File System](https://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/Linux-Filesystem-Hierarchy.pdf): Simple explanation
+* [Technical writing](https://developers.google.com/tech-writing): Learn how to write technical documents
