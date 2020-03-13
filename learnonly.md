@@ -51,10 +51,9 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 
 <h2 id="web">Web</h2>
 
-<table style="width:100%">
-
 * [Bug Crowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
 * [Hacker 101 Training Videos](https://www.hacker101.com/videos)
+* [Intigriti](https://blog.intigriti.com/): By Inti de Ceukulaire
 
 <h2 id="misc">Misc</h2>
 

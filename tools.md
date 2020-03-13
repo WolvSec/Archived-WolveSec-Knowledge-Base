@@ -66,6 +66,10 @@ A repository of useful CTF tools. Some were written during CTFs.
 * scapy 
 * Wireshark
 * [BloodhoundAD](https://github.com/BloodHoundAD/BloodHound): AD Enumeration tool
+* [Pulsar](https://github.com/FooBallZ/pulsar): Thorough network scanner
+
+
+<h2 id="pentest">Penetration Testing</h2>
 
 
 <h3 id="web">Web</h3>
@@ -76,6 +80,7 @@ A repository of useful CTF tools. Some were written during CTFs.
 * HTTP Statuses
 * OWASP Zap
 * Storage Inspector
+* [FUSE](https://github.com/WSP-LAB/FUSE): Finding file upload vulnerabilities
 * [temp-mail.org](https://temp-mail.org/)
   * Disposable email address
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
