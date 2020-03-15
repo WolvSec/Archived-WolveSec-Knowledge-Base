@@ -9,7 +9,7 @@ The purpose of this repository is to help all WolvSec members be successful CTF 
 	* [Setup](setup.md): Minimum tools you need to install to solve challenges
 	* [WolvSec bootcamp](https://gitlab.umich.edu/wolvsec/wolvsec-bootcamp): Internal bootcamp training material
 * Resources
-	* [Learn Only Resources](learnonly.md): Learning-only material (books, videos)
+	* [Learning Resources](learnonly.md): Learning-only material (books, videos)
 	* [Ongoing CTFs](ongoing.md): List of 365/24/7 ongoing CTFs
 	* [Security Tools](tools.md): A list of security tools
 	* [Snippet Toolbox](https://gitlab.umich.edu/wolvsec/ctf-snippet-toolbox): Useful script templates and commands
