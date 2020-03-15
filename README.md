@@ -6,7 +6,7 @@ The purpose of this repository is to help all WolvSec members be successful CTF 
 	* [Why?](https://www.youtube.com/watch?v=6vj96QetfTg&start=1545&end=1988&autoplay=1): The best way to find hacking talent
 * Getting Started
 	* [Onboarding](onboarding.md): <b>READ THIS FIRST!</b> 
-	* [Setup](setup.md): Minimum tools you need to install to solve challenges
+	* [Setup](setup.md): Minimum tools to be CTF ready
 	* [Bootcamp](https://gitlab.umich.edu/wolvsec/wolvsec-bootcamp): Internal bootcamp training material
 * Resources
 	* [Learning Resources](learnonly.md): Learning-only material (books, videos)
