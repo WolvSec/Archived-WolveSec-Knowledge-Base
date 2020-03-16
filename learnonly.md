@@ -37,6 +37,7 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 
 <h2 id="rev">Reversing</h2>
 
+* [Awesome reversing](https://github.com/tylerha97/awesome-reversing)
 * [OS Tutorial](https://github.com/cfenollosa/os-tutorial)
 * [wiki.osdev](https://wiki.osdev.org/)
 * [reverse-engineering](https://github.com/wtsxDev/reverse-engineering)
@@ -51,6 +52,7 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 
 <h2 id="web">Web</h2>
 
+* [Awesome web](https://github.com/infoslack/awesome-web-hacking/blob/master/README.md)
 * [Bug Crowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
 * [Hacker 101 Training Videos](https://www.hacker101.com/videos)
 * [Intigriti](https://blog.intigriti.com/): By Inti de Ceukulaire
