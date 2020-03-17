@@ -29,6 +29,7 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 
 * [Anatomy of a syscall](https://lwn.net/Articles/604287/)
 * [Corelan Team](https://www.corelan.be/)
+* [Format String](https://www.youtube.com/watch?v=2HxyGWD1htg)
 * [Jailbreaks-Demystified](https://geosn0w.github.io/Jailbreaks-Demystified/)
 * [Mach architecture](https://en.wikibooks.org/wiki/Reverse_Engineering/Mac_OS_X)
 * [Mach malloc](https://opensource.apple.com/source/Libc/Libc-594.1.4/gen/malloc.c)

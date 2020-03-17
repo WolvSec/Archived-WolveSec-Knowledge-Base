@@ -3,7 +3,10 @@ The purpose of this repository is to help all WolvSec members be successful CTF 
 
 * Introduction
 	* [CTFs?](https://www.youtube.com/watch?v=8ev9ZX9J45A): What are Capture The Flag competitions?
-	* [Why?](https://www.youtube.com/watch?v=6vj96QetfTg&start=1545&end=1988&autoplay=1): The best way to find hacking talent
+	* Why?
+		* [Steve Vittitoe](https://www.youtube.com/watch?v=ECMExVt1lbI): Captain of Samurai
+		* [Plaid Parliament of Pwning](https://www.youtube.com/watch?v=6vj96QetfTg&start=1545&end=1988&autoplay=1): The best way to find hacking talent
+		* [Tyler Nighswander](https://www.youtube.com/watch?v=-r-B1uOj0W4): Tyler, PPP
 * Getting Started
 	* [Onboarding](onboarding.md): <b>READ THIS FIRST!</b>  
 	* [Setup](setup.md): Minimum tools to be CTF ready
