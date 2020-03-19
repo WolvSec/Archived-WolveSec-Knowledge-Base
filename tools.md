@@ -54,6 +54,7 @@ A repository of useful CTF tools. Some were written during CTFs.
 * [Seccomp Tools](https://github.com/david942j/seccomp-tools)
 * [Skeksi virus](https://github.com/elfmaster/skeksi_virus/blob/master/virus.c)
 * x64dbg
+* [xrop](https://github.com/acama/xrop)
 * z3
 
 <h2 id="mac">Mac</h2>
