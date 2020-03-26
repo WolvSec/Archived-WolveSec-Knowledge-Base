@@ -97,6 +97,7 @@ A repository of useful CTF tools. Some were written during CTFs.
 * [biproxy](tools/biproxy.cc)
   * TCP proxy with decryption capabilities. Written by kellen and bitshift.
 * [CTF tools](https://github.com/zardus/ctf-tools)
+* [Hyperkit](https://github.com/moby/hyperkit): Mac virtualization
 * [University of Michigan BlueJeans](https://umich.bluejeans.com/)
 * [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
   * A database of google queries for finding vulnerable systems
