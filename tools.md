@@ -16,6 +16,7 @@ A repository of useful CTF tools. Some were written during CTFs.
 * CyberChef
 * [FactorDB](http://factordb.com/index.php/): Factor large numbers
 * [GMP-ECM](http://ecm.gforge.inria.fr/)
+* [maketrans](https://www.programiz.com/python-programming/methods/string/maketrans): For letter substitutions
 
 <h3 id="forensics">Forensics</h3>
 
