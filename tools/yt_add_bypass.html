@@ -1,0 +1,58 @@
+<html>
+
+<h1>The input element</h1>
+
+Video: <input type="text" name="URL" id="url"><br>
+<input type="button" value="Add Video" onClick="addURL(document.getElementById('url'))" />
+
+<iframe width="560" id="video" height="315" src="https://www.youtube.com/embed/uJswCVG242A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<input type="button" value="Change site" onClick="changeSite()" />
+
+<script type="text/javascript">
+
+
+var sites = [];
+
+function iframeDidLoad()
+{
+    console.log('Done');
+}
+
+function getUrlParams(search) {
+    const hashes = search.slice(search.indexOf('?') + 1).split('&')
+    const params = {}
+    hashes.map(hash => {
+        const [key, val] = hash.split('=')
+        params[key] = decodeURIComponent(val)
+    })
+    return params
+}
+
+
+function changeSite()
+{
+
+    document.getElementById('video').src = sites[Math.floor(Math.random() * sites.length)];
+
+}
+
+
+function addURL(url) 
+{
+
+    if(url.value == 0)
+    {
+	alert("Input URL");
+	return;
+    }
+
+    ID = getUrlParams(url.value);
+    
+    sites.push("https://www.youtube.com/embed/".concat(ID['v']));
+
+}    
+</script>
+
+</html>
+
