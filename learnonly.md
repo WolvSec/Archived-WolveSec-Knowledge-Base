@@ -1,6 +1,7 @@
 # CTF Reading list 
 CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md). 
 
+* [Competitive Programming](#code)
 * [Cryptography](#pwn)
 * [Forensics](#for)
 * [Hardware](#hard)
@@ -9,6 +10,10 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 * [Social Engineering](#social)
 * [Web](#web)
 * [Sample Topics Roadmap](#roadmap)
+
+<h2 id="code">Competitive Programming</h2>
+
+* [Competitive Programming](https://cses.fi/book/book.pdf)
 
 <h2 id="crypto">Cryptography</h2>
 
