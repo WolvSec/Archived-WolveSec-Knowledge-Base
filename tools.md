@@ -93,6 +93,13 @@ A repository of useful CTF tools. Some were written during CTFs.
 
 * [lscript](https://github.com/arismelachroinos/lscript)
 
+<h2 id="ctfd">CTF Platforms</h2>
+
+* [CTF Times](https://github.com/CTFd/CTFd)
+* [Facebook CTF](https://github.com/facebookarchive/fbctf)
+* [Mellivora](https://github.com/Nakiami/mellivora)
+* [picoCTF](https://github.com/carlislemc/picoCTF)
+
 <h3 id="misc">Misc</h3>
 
 * [biproxy](tools/biproxy.cc)
