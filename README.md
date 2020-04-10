@@ -4,6 +4,7 @@ The purpose of this repository is to help all WolvSec members be successful CTF 
 * Introduction
 	* [CTFs?](https://www.youtube.com/watch?v=8ev9ZX9J45A): What are Capture The Flag competitions?
 	* Why?
+		* [All the c00l kids are doing it](https://www.youtube.com/watch?v=t1w08LLKn5Y): by Chris Eagle, Univeristy of Michigan Alumni
 		* [Steve Vittitoe](https://www.youtube.com/watch?v=ECMExVt1lbI): Captain of Samurai
 		* [Plaid Parliament of Pwning](https://www.youtube.com/watch?v=6vj96QetfTg&start=1545&end=1988&autoplay=1): The best way to find hacking talent
 		* [Tyler Nighswander](https://www.youtube.com/watch?v=-r-B1uOj0W4): Tyler, PPP
