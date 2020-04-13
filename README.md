@@ -13,8 +13,8 @@ The purpose of this repository is to help all WolvSec members be successful CTF 
 	* [Setup](setup.md): Minimum tools to be CTF ready
 	* [Bootcamp](https://gitlab.umich.edu/wolvsec/wolvsec-bootcamp): Internal bootcamp training material
 * Resources
-	* [Learn](learnonly.md): Learning-only material (books, videos)
-	* [Practice](ongoing.md): Ongoing CTFs
+	* [Learn](learn.md): Learning-only material (books, videos)
+	* [Practice](practice.md): Ongoing CTFs
 	* [Tools](tools.md): A list of security tools
 	* [Snippets](https://gitlab.umich.edu/wolvsec/ctf-snippet-toolbox): Useful scripts and templates
 
