@@ -15,14 +15,17 @@ The purpose of this project is to keep an archive of practical CTF challenges an
 * [Checkpoint CTF](https://csa.checkpoint.com)
 * [ctflearn](https://ctflearn.com)
 * [Google CTF](https://capturetheflag.withgoogle.com/)
+* [Hellbound hackers](https://www.hellboundhackers.org/)
 * [OverTheWire](https://overthewire.org)
 * [picoCTF](https://picoctf.com)
 * [Praetorian](https://praetorian.com/challenges)
 * [Purdue CTF](https://ctf.b01lers.net/)
 * [RingZer0 CTF](https://ringzer0ctf.com)
 * [CSAW 365](https://365.csaw.io)
+* [TGhack](https://tghack.no/)
 * [UIUC CTF](https://ctf.sigpwny.com/)
 * [USF CTF](https://ctf.wcsc.usf.edu/)
+* [X-CTF](https://adworld.xctf.org.cn/)
 
 
 <h3 id="crypto">Cryptography</h3>
@@ -58,20 +61,17 @@ The purpose of this project is to keep an archive of practical CTF challenges an
 * [exploit-exercises](https://exploit-exercises.lains.space)
 * [hackcenter](https://hackcenter.com/)
 * [katsudon](https://ctf.katsudon.org/ctf4u)
+* [NOE systems](https://noe.systems/)
 * [pwnable.kr](https://pwnable.kr)
 * [pwnable.tw](https://pwnable.tw)
+* [pwnable.xyz](https://pwnable.xyz/)
 * [ROPemporium](https://ropemporium.com)
+* [root-me.org](
 
 <h3 id="rev">Reversing</h3>
 
 * [Microcorruption](https://microcorruption.com)
 * [FLARE on](http://flare-on.com)
-	* [2014](http://flare-on.com/files/2014_FLAREOn_Challenges.zip)
-	* [2015](http://flare-on.com/files/2015_FLAREOn_Challenges.zip)
-	* [2016](http://flare-on.com/files/Flare-On3_Challenges.zip)
-	* [2017](http://flare-on.com/files/Flare-On4_Challenges.zip)
-	* [2018](http://flare-on.com/files/Flare-On5_Challenges.zip)
-	* [2019](http://flare-on.com/files/Flare-On6_Challenges.zip)
 * [reversing.kr](http://reversing.kr)
 
 <h3 id="web">Web</h3>
