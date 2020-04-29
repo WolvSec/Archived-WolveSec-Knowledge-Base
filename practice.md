@@ -10,12 +10,21 @@ The purpose of this project is to keep an archive of practical CTF challenges an
 * [Reversing](#rev)
 * [Web](#web)
 
+<h3>Recommended</h3>
+* Reverse Engineering: [Tghack Space Academy](https://tghack.no/page/Tutorial)
+* Pwn: [Root-Me](https://www.root-me.org/)
+* Cryptography: [CryptoHack](https://cryptohack.org/)
+* Web: [Hacker101](https://ctf.hacker101.com/) 
+
 <h3 id="all">All</h3>
 
+* [Angstrom CTF](https://angstromctf.com/)
 * [Checkpoint CTF](https://csa.checkpoint.com)
 * [ctflearn](https://ctflearn.com)
 * [Google CTF](https://capturetheflag.withgoogle.com/)
+* [HackCTF](https://ctf.j0n9hyun.xyz/)
 * [Hellbound hackers](https://www.hellboundhackers.org/)
+* [HXP 2018](https://2018.ctf.link/)
 * [OverTheWire](https://overthewire.org)
 * [picoCTF](https://picoctf.com)
 * [Praetorian](https://praetorian.com/challenges)
@@ -66,7 +75,7 @@ The purpose of this project is to keep an archive of practical CTF challenges an
 * [pwnable.tw](https://pwnable.tw)
 * [pwnable.xyz](https://pwnable.xyz/)
 * [ROPemporium](https://ropemporium.com)
-* [root-me.org](
+* [root-me.org](https://www.root-me.org/)
 
 <h3 id="rev">Reversing</h3>
 
