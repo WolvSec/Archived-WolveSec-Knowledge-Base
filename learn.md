@@ -19,6 +19,7 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 
 * [Crypto cheatsheet](https://pequalsnp-team.github.io/cheatsheet/crypto-101)
 * [Coursera crypto](https://www.coursera.org/learn/crypto)
+* [Weak curves](https://wstein.org/edu/2010/414/projects/novotney.pdf)
 
 <h2 id="for">Forensics</h2>
 
