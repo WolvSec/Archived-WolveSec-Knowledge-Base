@@ -66,6 +66,7 @@ The purpose of this project is to keep an archive of practical CTF challenges an
 
 <h3 id="pwn">Pwn</h3>
 
+* [Browser exploit](https://archive.aachen.ccc.de/33c3ctf.ccc.ac/challenges/index.html)
 * [exploit-education](https://exploit.education)
 * [exploit-exercises](https://exploit-exercises.lains.space)
 * [hackcenter](https://hackcenter.com/)
