@@ -115,5 +115,6 @@ A repository of useful CTF tools. Some were written during CTFs.
   * Useful penetration testing and CTF snippets
 * [tandasat](https://github.com/tandasat/MiniVisorPkg): UEFI hypervisor to boot OS
 * [Pentesting Tools](https://prune2000.github.io/tools/pentest/)
+* [pypy](https://www.pypy.org/)
 * [Windows Service Hijacking](tools/WindowsServicePwn/)
   * Malicious Windows service binary.
