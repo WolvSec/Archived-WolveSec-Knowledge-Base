@@ -52,6 +52,7 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 * [wiki.osdev](https://wiki.osdev.org/)
 * [reverse-engineering](https://github.com/wtsxDev/reverse-engineering)
 * [kernelmode.info](https://www.kernelmode.info/forum/)
+* [kernel newbies](https://kernelnewbies.org/
 * [cr4sh](https://github.com/Cr4sh)
 * [VX underground](https://vx-underground.org/zines.html)
 
