@@ -45,6 +45,7 @@ CTF read-only resources. For practical challenges, go to [ctf-list](ctf-list.md)
 	* [Magazine malloc](https://opensource.apple.com/source/Libc/Libc-594.1.4/gen/magazine_malloc.c)
 * [n4sm](https://www.youtube.com/channel/UCMLdzIcHxhrDkgyw9IxgOwQ): Channel in French
 * [pwnable.kr writeups](https://research.checkpoint.com/wp-content/uploads/2020/03/pwnable_writeup.pdf)
+* [Slob exploitation](https://www.vsecurity.com/download/papers/slob-exploitation.pdf)
 
 <h2 id="rev">Reversing</h2>
 
